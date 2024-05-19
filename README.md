@@ -1,4 +1,4 @@
-# MACROS Exaple
+# MACROS Example
 
 This is a examplo to Use new Flutter's Experimental Feature called Macros
 There is two macros creates, DataClazz and PrimaryConstructor.
